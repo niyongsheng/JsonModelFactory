@@ -1,2 +1,25 @@
-# JsonModelFactory
-json转模型工具(YYModel,ExCodable)
+![(logo)](./logo.png)
+JsonModelFactory
+===
+[![](https://img.shields.io/badge/platform-Mac-orange.svg)](https://developer.apple.com/mac/)
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/niyongsheng/EasyRelease/blob/master/LICENSE)
+===
+
+## Introduction
+> 字典转模型工具
+
+## Support
+- [x] Swift
+- [x] Objective-C
+- [x] [YYModel](https://github.com/ibireme/YYModel)
+- [x] [ExCodable](https://github.com/iwill/ExCodable)
+
+## Screenshot
+![image](./screenshot.jpg)
+
+## Remind
+`macOS 12+ `
+
+## Contact Me
+* E-mail: niyongsheng@Outlook.com
+* Weibo: [@Ni永胜](https://weibo.com/u/7317805089)
