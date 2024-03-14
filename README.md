@@ -2,11 +2,11 @@
 JsonModelFactory
 ===
 [![](https://img.shields.io/badge/platform-Mac-orange.svg)](https://developer.apple.com/mac/)
-[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/niyongsheng/EasyRelease/blob/master/LICENSE)
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/niyongsheng/JsonModelFactory/blob/master/LICENSE)
 ===
 
-## Introduction
-> 字典转模型工具
+## Desc
+> 字典转模型工具。
 
 ## Support
 - [x] Swift
@@ -15,7 +15,7 @@ JsonModelFactory
 - [x] [ExCodable](https://github.com/iwill/ExCodable)
 
 ## Screenshot
-![image](./screenshot.jpg)
+![image](./mac.jpg)
 
 ## Remind
 `macOS 12+ `
