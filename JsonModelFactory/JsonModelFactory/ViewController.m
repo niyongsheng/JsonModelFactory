@@ -156,7 +156,7 @@ typedef enum : NSUInteger {
     [value appendString:@"/**\n  * Created by JsonModelFactory"];
     [value appendString:@" \n  * Copyright © "];
     [value appendString:[dateStr componentsSeparatedByString:@"-"].firstObject];
-    [value appendString:@"年 NYS.\n  */\n\n"];
+    [value appendString:@"年 NYS.\n  */\n"];
     return value;
 }
 

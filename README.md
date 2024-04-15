@@ -5,7 +5,7 @@ JsonModelFactory
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/niyongsheng/JsonModelFactory/blob/master/LICENSE)
 ===
 
-## Desc
+## Description
 > 字典转模型工具。
 
 ## Support
